@@ -1,6 +1,4 @@
-Uncool, uninteresting uni project.
-
-If you are considering to pay me money, close this page immediately.
+uni assignment.
 
 ################################################################################
 
