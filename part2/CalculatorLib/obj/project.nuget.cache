@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYf1nM65xP4=",
+  "success": true,
+  "projectFilePath": "/home/kobs/uni/byt/assignment_3/part2/CalculatorLib/CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "/home/kobs/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

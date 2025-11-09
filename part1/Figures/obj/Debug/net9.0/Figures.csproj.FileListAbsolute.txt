@@ -1,0 +1,11 @@
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.GeneratedMSBuildEditorConfig.editorconfig
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.AssemblyInfoInputs.cache
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.AssemblyInfo.cs
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.csproj.CoreCompileInputs.cache
+/home/kobs/uni/byt/assignment_3/part1/Figures/bin/Debug/net9.0/Figures.deps.json
+/home/kobs/uni/byt/assignment_3/part1/Figures/bin/Debug/net9.0/Figures.dll
+/home/kobs/uni/byt/assignment_3/part1/Figures/bin/Debug/net9.0/Figures.pdb
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.dll
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/refint/Figures.dll
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/Figures.pdb
+/home/kobs/uni/byt/assignment_3/part1/Figures/obj/Debug/net9.0/ref/Figures.dll
